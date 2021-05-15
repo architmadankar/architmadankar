@@ -1,4 +1,4 @@
-### Hi there 👋, Hey there !! I'm Archit
+### Hi there 👋, I'm Archit
 #### I am noob ;-;
 
 - 🔭 I’m currently working on Non-profit Website 
