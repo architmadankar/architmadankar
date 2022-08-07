@@ -6,13 +6,13 @@ Gamer | Cybersecurity | Learner
 
 ?></h3>
 
-
+<gif>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-
-<div id="badges">
+<social>
+<div id="badges" align-"center">
   <a href="https://www.linkedin.com/in/architmadankar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -21,3 +21,5 @@ Gamer | Cybersecurity | Learner
       </a>
 </div>
 
+  <skills>
+    
