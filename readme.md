@@ -28,7 +28,7 @@ Gamer | Cybersecurity | Learner
 ### :technologist: About Me :
  - :telescope: I’m a Post Graduate Student and contributing to backend for building Bots.
   
-- 🔭 I’m currently working on: Notes APP Firebase
+- 🔭 I’m currently working on: [Notes APP Firebase](https://github.com/Carfreak30/notes-app-firebase)
 
 - 🌱 I’m currently learning Java/Python/Android Studio
 
