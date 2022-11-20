@@ -28,9 +28,9 @@ Gamer | Cybersecurity | Learner
 ### :technologist: About Me :
  - :telescope: I’m a Post Graduate Student and contributing to backend for building Bots.
   
-- 🔭 I’m currently working on: Torrent Leech Bot
+- 🔭 I’m currently working on: Notes APP Firebase
 
-- 🌱 I’m currently learning Java/Python
+- 🌱 I’m currently learning Java/Python/Android Studio
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/architmadankar/)
 
@@ -57,6 +57,7 @@ Gamer | Cybersecurity | Learner
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
       </div>
   
   ---
