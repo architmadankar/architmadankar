@@ -26,7 +26,6 @@ Cybersecurity | Python
 ---  
   
 ### :technologist: About Me :
- - :telescope: I’m a Post Graduate Student and contributing to backend for building Bots.
   
 - 🔭 I’m currently working on: [HackTheBox](https://app.hackthebox.com/profile/448573)
 
