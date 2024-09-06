@@ -2,7 +2,7 @@
 <h1 align="center">Heyy There <img src="https://github.com/anshulxd/anshulxd/blob/main/Wave.gif" height="55px" width="55px">: Archit This Side</h1>
 <h3 align="center">(∩｀-')⊃━☆ﾟ.*･｡ﾟ
  
-Gamer | Cybersecurity | Learner
+Cybersecurity | Python
 
 </h3>
 
@@ -13,12 +13,12 @@ Gamer | Cybersecurity | Learner
 
 <social>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/architmadankar/">
+  <a href="https://www.linkedin.com/in/architmadankar21/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-  <a href="https://instagram.com/whyarchit">
+<!--   <a href="https://instagram.com/whyarchit">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
+      </a> -->
 </div>
 
 <about-stuff>
@@ -28,11 +28,11 @@ Gamer | Cybersecurity | Learner
 ### :technologist: About Me :
  - :telescope: I’m a Post Graduate Student and contributing to backend for building Bots.
   
-- 🔭 I’m currently working on: [Notes APP Firebase](https://github.com/Carfreak30/notes-app-firebase)
+- 🔭 I’m currently working on: [HackTheBox](https://app.hackthebox.com/profile/448573)
 
-- 🌱 I’m currently learning Java/Python/Android Studio
+- 🌱 I’m currently learning Python/Bash/Windows AD
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/architmadankar/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/architmadankar21/)
 
  ---
 
