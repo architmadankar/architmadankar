@@ -63,8 +63,7 @@ Cybersecurity | Python
   
   ### :fire: My Stats :
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=architmadankar)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=architmadankar&theme=radical" alt="GitHub Streak" /></a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
