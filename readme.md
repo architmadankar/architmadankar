@@ -62,8 +62,9 @@ Cybersecurity | Python
   ---
   
   ### :fire: My Stats :
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical)](https://git.io/streak-stats)
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=architmadankar&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true">    <img  alt="architmadankar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true" />  </a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
