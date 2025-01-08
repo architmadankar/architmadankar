@@ -1,15 +1,7 @@
 <hi>
  
 <h3 align="center">(∩｀-')⊃━☆ﾟ.*･｡ﾟ
- 
-Cybersecurity | Python
-
 </h3>
-
-<gif>
-<div id="header" align="center">
-  <img src="https://github.com/architmadankar/architmadankar/blob/main/animation.gif?raw=true"/>
-</div>
 
 <social>
 <div id="badges" align="center">
@@ -20,12 +12,11 @@ Cybersecurity | Python
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
 </div>
- 
----  
   
 ### :technologist: About Me :
 <div>
 <details>
+ 
 - 🔭 I’m currently working on: [HackTheBox](https://app.hackthebox.com/profile/448573)
 
 - 🌱 I’m currently learning Python/Bash/Windows AD
@@ -44,9 +35,12 @@ Cybersecurity | Python
 
   
   ---
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical)](https://git.io/streak-stats)  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true"><img alt="architmadankar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true" /></a>
+## 🔥 GitHub Stats
 
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/architmadankar"><img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true"></a>  
+<a href="https://github.com/architmadankar"><img width="50%" src="https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical"></a>  
 
-[![Count](https://komarev.com/ghpvc/?username=architmadankar&color=447ff7&label=Visitor+count)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
