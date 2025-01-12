@@ -117,7 +117,7 @@
   
 ### 🔥 GitHub Stats
 
-<img align="right" width="45%" src="https://github.com/architmadankar/architmadankar/blob/main/dio.png?raw=true"/>
+<img align="right" width="38%" src="https://github.com/architmadankar/architmadankar/blob/main/dio.png?raw=true"/>
 
 <a href="https://github.com/architmadankar"><img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true"></a>  
 <a href="https://github.com/architmadankar"><img width="50%" src="https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical"></a>  
