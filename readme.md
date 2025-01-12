@@ -60,9 +60,14 @@
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/architmadankar21/)
 </details>
   
-</p>
+</div>
 
  ---
+
+ ### :hammer_and_wrench:	Skills 
+<div>
+ 
+<details>
 
 #### **Programming Languages:**
  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -103,8 +108,13 @@
  ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Arch Linux](https://img.shields.io/badge/archlinux-%231793d1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+
+</details>
+
+  </div>
   
   ---
+  
 ## 🔥 GitHub Stats
 
 <img align="right" width="45%" src="https://github.com/architmadankar/architmadankar/blob/main/dio.png?raw=true"/>
