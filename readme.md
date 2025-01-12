@@ -64,7 +64,7 @@
 
  ---
 
- ### :hammer_and_wrench:	Skills 
+ ### :hammer_and_wrench:	Skills :
 <div>
  
 <details>
@@ -115,7 +115,7 @@
   
   ---
   
-## 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
 <img align="right" width="45%" src="https://github.com/architmadankar/architmadankar/blob/main/dio.png?raw=true"/>
 
