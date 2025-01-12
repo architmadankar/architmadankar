@@ -119,6 +119,7 @@
 
 <img align="right" width="38%" src="https://github.com/architmadankar/architmadankar/blob/main/dio.png?raw=true"/>
 
-<a href="https://github.com/architmadankar"><img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true"></a>  
-<a href="https://github.com/architmadankar"><img width="50%" src="https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical"></a>  
-<a href="https://github.com/architmadankar"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark"></a>
+<a href="https://github.com/architmadankar"><img width="38%" src="https://awesome-github-stats.azurewebsites.net/user-stats/architmadankar?cardType=level&theme=radical&preferLogin=true"></a>  
+<a href="https://github.com/architmadankar"><img width="40%" src="https://nirzak-streak-stats.vercel.app?user=architmadankar&theme=radical"></a>
+<a href="https://roadmap.sh"><img width="20%" src="https://roadmap.sh/card/tall/67840f8f70129741a8511b10?variant=dark"/></a>
+<a href="https://github.com/architmadankar"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architmadankar&layout=compact&theme=vision-friendly-dark"></a>
